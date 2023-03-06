@@ -1,0 +1,14 @@
+body{
+    font-family: Arial;
+    min-height: 500px;
+
+}
+div#quiz{
+    border: purple 10px solid;
+    padding: 10px 40px 40px 40px;
+    background-color: white;
+    width: 50%;
+
+}
+
+  

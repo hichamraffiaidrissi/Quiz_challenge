@@ -1,0 +1,3 @@
+First created a div in the HTML where the questions and their answers would be,and linked both CSS and JS then styled that container.
+then starting an array with objects containing each question
+and all their fuctions by making them clickable.
